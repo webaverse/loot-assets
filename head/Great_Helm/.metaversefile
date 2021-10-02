@@ -1,0 +1,11 @@
+{
+  "start_url": "https://plankatron.github.io/loot-assets/head/Great_Helm/great_helm.glb",
+  "components": [
+    {
+      "key": "wear",
+      "value": {
+        "skinnedMesh": "great_helm"
+      }
+    }
+  ]
+}
