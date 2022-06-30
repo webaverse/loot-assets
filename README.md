@@ -1,5 +1,10 @@
 # loot-assets
 
+To generate manifest run
+```sh
+  npm run create-json
+```
+
 3D assets of Loot (for Adventurers)
 
 Info links:
