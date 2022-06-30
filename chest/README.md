@@ -52,7 +52,7 @@ https://ambientcg.com/view?id=Chainmail003
 
 ![](https://i.imgur.com/RdXHuzk.jpg)
 
-## Dragonskin Armor
+## Dragonscale Armor
 
 
 

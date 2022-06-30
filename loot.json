@@ -202,10 +202,10 @@
         "thumbnail": "hand/Chain_Gloves/chain_gloves.jpg"
       },
       {
-        "id": "hand-demon_hands",
-        "name": "Demon Hands",
-        "directory": "hand/Demons_Hands/demon_hands.glb",
-        "thumbnail": "hand/Demons_Hands/demon_hands.jpg"
+        "id": "hand-demons_hands",
+        "name": "Demons Hands",
+        "directory": "hand/Demons_Hands/demons_hands.glb",
+        "thumbnail": "hand/Demons_Hands/demons_hands.jpg"
       },
       {
         "id": "hand-divine_gloves",
@@ -216,8 +216,8 @@
       {
         "id": "hand-dragonscale_gloves",
         "name": "Dragonscale Gloves",
-        "directory": "hand/Dragonskin_Gloves/dragonscale_gloves.glb",
-        "thumbnail": "hand/Dragonskin_Gloves/dragonscale_gloves.jpg"
+        "directory": "hand/Dragonscale_Gloves/dragonscale_gloves.glb",
+        "thumbnail": "hand/Dragonscale_Gloves/dragonscale_gloves.jpg"
       },
       {
         "id": "hand-gauntlets",
@@ -232,10 +232,10 @@
         "thumbnail": "hand/Gloves/gloves.jpg"
       },
       {
-        "id": "hand-hard_leather_glove",
-        "name": "Hard Leather Glove",
-        "directory": "hand/Hard_Leather_Gloves/hard_leather_glove.glb",
-        "thumbnail": "hand/Hard_Leather_Gloves/hard_leather_glove.jpg"
+        "id": "hand-hard_leather_gloves",
+        "name": "Hard Leather Gloves",
+        "directory": "hand/Hard_Leather_Gloves/hard_leather_gloves.glb",
+        "thumbnail": "hand/Hard_Leather_Gloves/hard_leather_gloves.jpg"
       },
       {
         "id": "hand-heavy_gloves",
