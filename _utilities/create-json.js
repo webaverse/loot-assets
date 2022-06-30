@@ -37,7 +37,7 @@ foundFiles.forEach(file => {
     const folderArray = file.split('/');
 
     // get the second (-2) to last value of folderArray
-    const traitName = folderArray[folderArray.length - 2];
+    const traitName = folderArray[folderArray.length - 3];
 
 
     // get the file name and replace _ with spaces
