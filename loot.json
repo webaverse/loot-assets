@@ -262,10 +262,10 @@
         "thumbnail": "hand/Linen_Gloves/linen_gloves.jpg"
       },
       {
-        "id": "hand-ornate_gloves",
-        "name": "Ornate Gloves",
-        "directory": "hand/Ornate_Gauntlets/ornate_gloves.glb",
-        "thumbnail": "hand/Ornate_Gauntlets/ornate_gloves.jpg"
+        "id": "hand-ornate_gauntlets",
+        "name": "Ornate Gauntlets",
+        "directory": "hand/Ornate_Gauntlets/ornate_gauntlets.glb",
+        "thumbnail": "hand/Ornate_Gauntlets/ornate_gauntlets.jpg"
       },
       {
         "id": "hand-silk_gloves",
