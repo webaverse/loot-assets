@@ -1,6 +1,8 @@
 import path from "path"
 import fs from 'fs';
 
+// Generates JSON for the M3taloot Avatar Creator (or elsewhere)
+
 function readDirRecursive(root, filter, files, prefix) {
   prefix = prefix || ''
   files = files || []
@@ -34,9 +36,6 @@ const json = [];
 foundFiles.forEach(file => {
     const folderArray = file.split('/');
 
-    // get the last folder from the file path
-    const folder = folderArray.pop().split('.')[0];
-
     // get the second (-2) to last value of folderArray
     const traitName = folderArray[folderArray.length - 2];
 
@@ -46,7 +45,7 @@ foundFiles.forEach(file => {
     const capitalize = str => str.split(' ').map(sub => sub.charAt(0).toUpperCase() + sub.slice(1)).join(' ');
 
     const collection = {
-        id: folder + "-" + itemName.split('.')[0],
+        id: traitName + "-" + itemName.split('.')[0],
         name: capitalize(itemName.replace(/_/g, ' ')).replace('.glb', ''),
         directory: file,
         thumbnail: file.replace('glb', 'jpg')

@@ -5,7 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "create-json": "node _utilities/create-json.js"
+    "create-json": "node _utilities/create-json.js",
+    "rename-images": "node _utilities/rename-images.js"
+
   },
   "repository": {
     "type": "git",
