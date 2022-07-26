@@ -1,5 +1,10 @@
 # loot-assets
 
+To generate manifest run
+```sh
+  npm run create-json
+```
+
 3D assets of Loot (for Adventurers)
 
 Info links:
@@ -41,7 +46,7 @@ Info links:
 - [ ] Robe 
 - [ ] Shirt
 - [ ] Demon Husk 
-- [ ] Dragonskin Armor 
+- [ ] Dragonscale Armor 
 - [ ] Studded Leather Armor
 - [ ] Hard Leather Armor 
 - [ ] Leather Armor
@@ -77,7 +82,7 @@ Info links:
 - [ ] Mesh Belt
 - [ ] Heavy Belt 
 - [ ] Demonhide Belt 
-- [ ] Dragonskin Belt
+- [ ] Dragonscale Belt
 - [ ] Studded Leather Belt 
 - [ ] Hard Leather Belt
 - [ ] Leather Belt 
@@ -95,7 +100,7 @@ Info links:
 - [ ] Chain Boots
 - [ ] Heavy Boots
 - [ ] Demonhide Boots
-- [ ] Dragonskin Boots 
+- [ ] Dragonscale Boots 
 - [ ] Studded Leather Boots
 - [ ] Hard Leather Boots 
 - [ ] Leather Boots
@@ -113,7 +118,7 @@ Info links:
 - [ ] Chain Gloves 
 - [ ] Heavy Gloves 
 - [ ] Demon's Hands
-- [ ] Dragonskin Gloves
+- [ ] Dragonscale Gloves
 - [ ] Studded Leather Gloves
 - [ ] Hard Leather Gloves
 - [ ] Leather Gloves 
